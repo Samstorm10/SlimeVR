@@ -1,4 +1,4 @@
-#What is this project?
+# What is this project?
 This project is a documentation and guide on how to replicate my personal improved SlimeVR build
 
 
