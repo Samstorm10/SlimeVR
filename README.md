@@ -4,7 +4,8 @@ A custom adaptation of SlimeVR builds
 
 # Description
 Currently there is one build that i made which uses the SlimeVR Hyperion Case. ( https://www.thingiverse.com/thing:5186756 )
-The goal of this project is to make an easy to use guide on how to follow my specific build instructions, and get you set up easy. As always, feel free to improve my design
+The goal of this project is to make an easy to use guide on how to follow my specific build instructions, and get you set up easy. As always, feel free to improve my design.
+The current design and build is V1.1
 
 ![afbeelding](https://github.com/Samstorm10/SlimeVR/assets/113670873/420b5567-d475-48f8-ad1e-da95aca8872f)
 
