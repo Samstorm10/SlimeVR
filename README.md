@@ -1,5 +1,10 @@
-# SlimeVR
-A custom adaptation of SlimeVR builds
+#What is this project?
+This project is a documentation and guide on how to replicate my personal improved SlimeVR build
+
+
+# First things first, What is SlimeVR?
+
+SlimeVR is a set of open hardware sensors and open source software that facilitates full-body tracking (FBT) in virtual reality. The project is built around creating a system that is customisable, hackable and can be modified to suit the needs of the user.
 
 
 # Description
