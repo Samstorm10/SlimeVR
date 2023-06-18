@@ -24,9 +24,10 @@ The current design and build is V1.1
 
 ![afbeelding](https://github.com/Samstorm10/SlimeVR/assets/113670873/f74c365e-9014-43cc-b89d-2ca07ccf33d9)
 
-# Planned future improvements
+# Planned future improvements and plans
 - Adding diodes for extra protection
 - Adding a 1.25 JST 4P connector for additional AUX support
+- Creating an assembly video
 
 # List of parts
 
